@@ -1,0 +1,42 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    margin: auto;
+    width: 50%;
+    display: block;
+}
+
+h1 {
+    text-align: center;
+    background-color: aquamarine;
+    color: navy;
+    font-weight: bolder;
+}
+
+li {
+    font-weight: 100;
+    text-align: center;
+}
+
+.first {
+    background-color: #F08A45;
+    display: inline-block;
+    margin: auto;
+    width: 30%;
+}
+
+.second {
+    background-color: #feea63;
+    display: inline-block;
+    margin: auto;
+    width: 30%;
+}
+
+.third {
+    background-color: #b0c24a;
+    display: inline-block;
+    margin: auto;
+    width: 30%;
+}
