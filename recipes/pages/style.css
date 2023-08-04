@@ -1,0 +1,15 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1, h2, h3 {
+    text-align: center;
+    color: lightpink;
+    background-color: black;
+}
+
+img {
+    margin: auto;
+    width: 50%;
+    display: block;
+}
